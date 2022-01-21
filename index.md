@@ -16,7 +16,7 @@ Kinesis Firehose), and their integration with AWS tools.
 
 **Research Engineer** @ [GRYS](http://grys.upm.es/) _(Dec 2019 - Sep 2020)_ / Madrid, ES <br>
 
-Development of a semantic middleware for European IoT project [AFarCloud](http://www.afarcloud.eu/) including:
+Development of a semantic middleware for European IoT project [AFarCloud](http://www.afarcloud.eu/) including the following tasks:
 
 - Development and maintenance of microservices using JAVA, Docker Compose and Docker Swarm.
 - Implementation of MQTT communications.
