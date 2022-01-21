@@ -1,4 +1,4 @@
-remote_theme: edgriebel/edgriebel.github.io
+remote_theme: wbadart/jekyll-theme-dark-minimal
 title: Daniel Vilela CV
 plugins:
   - jekyll-paginate
