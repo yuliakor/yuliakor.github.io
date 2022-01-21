@@ -1,10 +1,11 @@
-remote_theme: wbadart/jekyll-theme-dark-minimal
+theme: jekyll-theme-minimal
+#remote_theme: wbadart/jekyll-theme-dark-minimal
 title: Daniel Vilela CV
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
+#plugins:
+#  - jekyll-paginate
+#  - jekyll-sitemap
+#  - jekyll-gist
+#  - jekyll-feed
+#  - jemoji
+#  - jekyll-include-cache
  
