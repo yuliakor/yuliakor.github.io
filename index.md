@@ -5,7 +5,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/daniel-vilela-garcia/) | [Email](mailto:dani010lenin@gmail.com) 
 
-## Technical Experience<br>
+## Professional Experience<br>
 
 **Cloud Support Engineer / Analytics** @ [Amazon Web Services](https://aws.amazon.com/) _(September 2020 - Present)_ / Dublin, IE <br>
 
