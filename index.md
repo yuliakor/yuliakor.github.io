@@ -16,7 +16,6 @@ Kinesis Firehose), and their integration with other AWS tools.
 <br><br>
 
 **Research Engineer** @ [GRYS](http://grys.upm.es/) _(Dec 2019 - Sep 2020)_ / Madrid, ES <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
 
 Development of a semantic middleware for European IoT project [AFarCloud](http://www.afarcloud.eu/) including:
 
