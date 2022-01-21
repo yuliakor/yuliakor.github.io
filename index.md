@@ -5,7 +5,8 @@
 
 [LinkedIn](https://www.linkedin.com/in/daniel-vilela-garcia/) / [Email](mailto:dani010lenin@gmail.com) 
 
-## 🔧 Professional Experience<br>
+## 🔧 Professional Experience <br>
+
 
 **Cloud Support Engineer / Analytics** @ [Amazon Web Services](https://aws.amazon.com/) _(September 2020 - Present)_ / Dublin, IE <br>
 
@@ -23,7 +24,6 @@ Development of a semantic middleware for European IoT project [AFarCloud](http:/
 - Development of REST APIs using JAX-RS.
 - Information models: JSON schema definitions and validation.
 - Centralized log and metrics monitoring system using the Elastic Stack (ELK).
-
 
 <br>
 **Electronic Engineer** @ XSOLUCION _(Jan 2017 - Aug 2017)_ / Havana, CU <br>
