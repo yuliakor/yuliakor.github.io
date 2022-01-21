@@ -13,7 +13,7 @@ As part of the Analytics team - Premium Support -, I provide specialized support
 Amazon Elasticsearch/OpenSearch, Managed Streaming for Kafka, Kinesis Data Streams, Kinesis Data Analytics and
 Kinesis Firehose), and their integration with AWS tools.
 
-
+<br>
 **Research Engineer** @ [GRYS](http://grys.upm.es/) _(Dec 2019 - Sep 2020)_ / Madrid, ES <br>
 
 Development of a semantic middleware for European IoT project [AFarCloud](http://www.afarcloud.eu/) including the following tasks:
@@ -25,7 +25,7 @@ Development of a semantic middleware for European IoT project [AFarCloud](http:/
 - Centralized log and metrics monitoring system using the Elastic Stack (ELK).
 
 
-
+<br>
 **Electronic Engineer** @ XSOLUCION _(Jan 2017 - Aug 2017)_ / Havana, CU <br>
 
 Internship at an electronics workshop, performing the following activities: 
@@ -34,8 +34,6 @@ Internship at an electronics workshop, performing the following activities:
 - Local Area Network setup and maintenance (e.g. equipment setup, subnet and routing configuration and tuning).
 
 <br>
-
-
 ## 📌 On The Side
 
 **Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Aug 2017 - Present)_<br>
