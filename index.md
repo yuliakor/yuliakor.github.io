@@ -3,9 +3,9 @@
 ## Cloud Engineer @ AWS <br>
 📌 Dublin, IE <br>
 
-[LinkedIn](https://www.linkedin.com/in/daniel-vilela-garcia/) / [Email](mailto:dani010lenin@gmail.com) / 
+[LinkedIn](https://www.linkedin.com/in/daniel-vilela-garcia/) | [Email](mailto:dani010lenin@gmail.com) 
 
-## Technical Experience
+## Technical Experience<br>
 
 **Cloud Support Engineer / Analytics** @ [Amazon Web Services](https://aws.amazon.com/) _(September 2020 - Present)_ / Dublin, IE <br>
 
@@ -13,7 +13,7 @@ As part of the Analytics team - Premium Support -, I provide specialized support
 Amazon Elasticsearch/OpenSearch, Managed Streaming for Kafka, Kinesis Data Streams, Kinesis Data Analytics and
 Kinesis Firehose), and their integration with AWS tools.
 
-<br>
+
 **Research Engineer** @ [GRYS](http://grys.upm.es/) _(Dec 2019 - Sep 2020)_ / Madrid, ES <br>
 
 Development of a semantic middleware for European IoT project [AFarCloud](http://www.afarcloud.eu/) including:
@@ -24,7 +24,7 @@ Development of a semantic middleware for European IoT project [AFarCloud](http:/
 - Information models: JSON schema definitions and validation.
 - Centralized log and metrics monitoring system using the Elastic Stack (ELK).
 
-<br>
+
 
 **Electronic Engineer** @ XSOLUCION _(Jan 2017 - Aug 2017)_ / Havana, CU <br>
 
