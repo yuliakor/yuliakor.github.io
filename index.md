@@ -1,6 +1,6 @@
 # DANIEL VILELA GARCIA
 
-## Cloud Engineer @ AWS## <br>
+## Cloud Engineer @ AWS <br>
 📌 Dublin, IE <br>
 
 [LinkedIn](https://www.linkedin.com/in/daniel-vilela-garcia/) / [Email](mailto:dani010lenin@gmail.com) / 
