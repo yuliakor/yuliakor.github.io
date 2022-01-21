@@ -8,4 +8,4 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
- - jekyll-remote-theme
+  - jekyll-remote-theme
