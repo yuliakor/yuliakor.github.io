@@ -7,6 +7,7 @@
 
 ## Professional Experience<br>
 
+
 **Cloud Support Engineer / Analytics** @ [Amazon Web Services](https://aws.amazon.com/) _(September 2020 - Present)_ / Dublin, IE <br>
 
 As part of the Analytics team - Premium Support -, I provide specialized support for AWS analytics services. (e.g.
