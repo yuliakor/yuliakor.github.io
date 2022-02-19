@@ -51,7 +51,8 @@ Antonio Echeverría'** _(Sept 2011 - July 2017)_/ Havana, CU
 
 ## 📚 Certifications and Courses
 
-**AWS Certified Developer - Associate** _(2022)_ <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9294de01-b082-4bbe-976b-c7cdaf239730" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> <br> 
+**AWS Certified Developer - Associate** _(2022)_ <br>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9294de01-b082-4bbe-976b-c7cdaf239730" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 **Udemi "Cisco CCNA R&S 200-125"**  _(2018)_ <br>
 **Coursera "Data Science with Python"** (by the University of Michigan)** _(2018)_ <br>
 
