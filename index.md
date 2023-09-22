@@ -1,4 +1,4 @@
-# DANIEL VILELA GARCIA
+# Yulia Korneeva
 
 ## Cloud Engineer @ AWS <br>
 📌 Dublin, IE <br>
@@ -8,32 +8,30 @@
 ## 🔧 Professional Experience <br>
 
 
-**Cloud Support Engineer / Analytics** @ [Amazon Web Services](https://aws.amazon.com/) _(September 2020 - Present)_ / Dublin, IE <br>
+**Bussiness analyst** @ [Samokat](https://samokat.ru/), [Buyk](https://www.linkedin.com/company/buyk-corp/) _(Jan 2022 - Present)_/ 
+Samokat is a grocery delivery company in Russia with over $1BLN in revenue, 1200+ stores, and 55M users. Buyk was Samokat’s USA brand operating 40 stores in New York and Chicago <br>
 
-As part of the Analytics team - Premium Support -, I provide specialized support for AWS analytics services. (e.g.
-Amazon Elasticsearch/OpenSearch, Managed Streaming for Kafka, Kinesis Data Streams, Kinesis Data Analytics and
-Kinesis Firehose), and their integration with AWS tools.
+- Developed product “SAM” - service area manager. SAM is a dictionary of warehouses and delivery service areas with analytical functions that allow the calculation of the best warehouse locations
+- Managed a team of 15 including front-end and back-end engineers, QA, support, designers, and analysts
+- Raised team capacity by 20% leading agile activities in 7 months
+- Implemented a series of analytical instruments for new store locations evaluation based on demographic data and demand forecasts based on previous openings; stores, opened with this algorithm, make 7% more in revenue, the average delivery route is 12% less, and courier expenses are 6% less compared to other stores
+- Launched MVP of Bike Repair manager product in 2 months, increased bike repair speed from 2 to 4 bikes per master per day, reduced bike operation cost by 30%
+- Coordinated 7 cross-functional end-to-end projects with 20+ products involved to impact marketing, legal, operations, and launching processes
+
 
 <br>
 **Research Engineer** @ [GRYS](http://grys.upm.es/) _(Dec 2019 - Sep 2020)_ / Madrid, ES <br>
 
-Development of a semantic middleware for European IoT project [AFarCloud](http://www.afarcloud.eu/) including the following tasks:
-
-- Development and maintenance of microservices using JAVA, Docker Compose and Docker Swarm.
-- Implementation of MQTT communications.
-- Development of REST APIs using JAX-RS.
-- Information models: JSON schema definitions and validation.
-- Centralized log and metrics monitoring system using the Elastic Stack (ELK).
-
+- Conducting quantitative and qualitative research in the framework of the
+project “Cities Beat Diabetes. Moscow".
+- Development of research methodology Conducting focus groups and indepth
+interviews with respondents .
+- Carrying out cluster and factor analysis.
+- Analysing benchmarks for traffic regulation in Europe.
+- Analysing spatial data as part of the formation of a strategy for creating a
+cycling route Moscow-St. Petersburg.
 <br>
-**Electronic Engineer** @ XSOLUCION _(Jan 2017 - Aug 2017)_ / Havana, CU <br>
 
-Internship at an electronics workshop, performing the following activities: 
-
-- Hardware diagnosis and repair.
-- Local Area Network setup and maintenance (e.g. equipment setup, subnet and routing configuration and tuning).
-
-<br>
 
 ## 🎓 Education
 
