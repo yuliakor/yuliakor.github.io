@@ -1,9 +1,5 @@
 # Yulia Korneeva
-
-## Cloud Engineer @ AWS <br>
-📌 Dublin, IE <br>
-
-[LinkedIn](https://www.linkedin.com/in/daniel-vilela-garcia/) / [Email](mailto:dani010lenin@gmail.com) <br><br>
+📌 [korneevayulia1000@gmail.com](mailto:korneevayulia1000@gmail.com) | +995 599 007 593 | Tbilisi 
 
 ## 🔧 Professional Experience <br>
 
@@ -20,7 +16,8 @@ Samokat is a grocery delivery company in Russia with over $1BLN in revenue, 1200
 
 
 <br>
-**Research Engineer** @ [GRYS](http://grys.upm.es/) _(Dec 2019 - Sep 2020)_ / Madrid, ES <br>
+
+**Analyst** @ [Strelka KB](https://www.linkedin.com/company/strelkakb/) _(Dec 2019 - Sep 2020)_ / Madrid, ES <br>
 
 - Conducting quantitative and qualitative research in the framework of the
 project “Cities Beat Diabetes. Moscow".
