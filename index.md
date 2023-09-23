@@ -1,11 +1,12 @@
 # Yulia Korneeva
-📌 [korneevayulia1000@gmail.com](mailto:korneevayulia1000@gmail.com) | +995 599 007 593 | Tbilisi | telegram: [yulia_kor](https://t.me/yulia_kor)|[linkedin](https://www.linkedin.com/in/yulia-korneeva-288236173/)
+📌 [korneevayulia1000@gmail.com](mailto:korneevayulia1000@gmail.com) | +995 599 007 593 | Tbilisi <br> 
+telegram: [yulia_kor](https://t.me/yulia_kor) | [linkedin](https://www.linkedin.com/in/yulia-korneeva-288236173/)
 
 ## 🔧 Professional Experience <br>
 
 
 **Bussiness analyst** @ [Samokat](https://samokat.ru/), [Buyk](https://www.linkedin.com/company/buyk-corp/) _(Jan 2022 - Present)_/ <br>
-[_Samokat is a grocery delivery company in Russia with over $1BLN in revenue, 1200+ stores, and 55M users. Buyk was Samokat’s USA brand operating 40 stores in New York and Chicago_]({color="grey"}) <br>
+<span style="color:grey"> _Samokat is a grocery delivery company in Russia with over $1BLN in revenue, 1200+ stores, and 55M users. Buyk was Samokat’s USA brand operating 40 stores in New York and Chicago_ </span> <br>
 
 - Developed product “SAM” - service area manager. SAM is a dictionary of warehouses and delivery service areas with analytical functions that allow the calculation of the best warehouse locations
 - Managed a team of 15 including front-end and back-end engineers, QA, support, designers, and analysts
