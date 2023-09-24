@@ -3,7 +3,7 @@
 telegram: [yulia_kor](https://t.me/yulia_kor) | [linkedin](https://www.linkedin.com/in/yulia-korneeva-288236173/)
 <br> <br>
 **Summary**
-_Business analyst with 3 years of experience in operational products and strategic consulting. Implemented $800k+ worth features in grocery delivery. Looking for a new role as a product manager._ <br> <br>
+_Business analyst with 3 years experience in operational products and strategic consulting. Implemented $800k+ worth features in grocery delivery. Looking for a new role as a product manager._ <br> <br>
 
 ## 🔧 Professional Experience <br>
 **Bussiness analyst** @ [Samokat](https://samokat.ru/), [Buyk](https://www.linkedin.com/company/buyk-corp/) _(Jan 2022 - Present)_/ <br>
@@ -11,7 +11,7 @@ _Business analyst with 3 years of experience in operational products and strateg
 
 - Developed product “SAM” - service area manager. SAM is a dictionary of warehouses and delivery service areas with analytical functions that allow the calculation of the best warehouse locations.
 - Implemented a series of analytical instruments for new store locations evaluation based on demographic data and demand forecasts based on previous openings; stores, opened with this algorithm, make 7% more in revenue, the average delivery route is 12% less, and courier expenses are 6% less compared to other stores.
-- Developed a roadmap and designed business logic for transitioning from Mapbox gis data provider to own gis platform to manage logistics objects; reduced costs and risks of using  external providers' services.
+- Developed a roadmap and designed business logic for transitioning from Mapbox gis data provider to inner gis platform to manage logistics infrastructure; reduced costs and risks of using  external providers' services.
 - Wrote requirements and launched a service, which contains information on all logistics infrastructure for 3 companies Samokat, Sberlogistika, and SberMegaMarket; provided the technical capability to implement 15-minute delivery for a partner Marketplace (SberMegaMarket).
 - Wrote requirements and launched automatic receiving of mass employee profiles (couriers, pickers) from the accounting system; optimized the process of getting credentials for those employees; increased the speed of getting authorization credentials for couriers and pickers by 1 day.
 - Wrote requirements for the ML team to develop a model that predicts a fair price for leased and potential warehouses, integrated fair price in store locations evaluation instrument.
