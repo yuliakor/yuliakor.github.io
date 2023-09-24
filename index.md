@@ -3,55 +3,51 @@
 telegram: [yulia_kor](https://t.me/yulia_kor) | [linkedin](https://www.linkedin.com/in/yulia-korneeva-288236173/)
 
 ## 🔧 Professional Experience <br>
-
-
 **Bussiness analyst** @ [Samokat](https://samokat.ru/), [Buyk](https://www.linkedin.com/company/buyk-corp/) _(Jan 2022 - Present)_/ <br>
 <span style="color:grey"> _Samokat is a grocery delivery company in Russia with over $1BLN in revenue, 1200+ stores, and 55M users. Buyk was Samokat’s USA brand operating 40 stores in New York and Chicago_ </span> <br>
 
 - Developed product “SAM” - service area manager. SAM is a dictionary of warehouses and delivery service areas with analytical functions that allow the calculation of the best warehouse locations
 - Implemented a series of analytical instruments for new store locations evaluation based on demographic data and demand forecasts based on previous openings; stores, opened with this algorithm, make 7% more in revenue, the average delivery route is 12% less, and courier expenses are 6% less compared to other stores.
-- 
-- Launched MVP of Bike Repair manager product in 2 months, increased bike repair speed from 2 to 4 bikes per master per day, reduced bike operation cost by 30%
-- Coordinated 7 cross-functional end-to-end projects with 20+ products involved to impact marketing, legal, operations, and launching processes
+- Developed a roadmap and designed business logic for transitioning from Mapbox gis data provider to own gis platform to manage logistics objects; reduced costs and risks of using  external providers' services.
+- Wrote requirements and launched a service, which contains information on all logistics infrastructure for 3 companies Samokat, Sberlogistika, SberMegaMarket; provided technical capability to implement 15-minute delivery for a partner Marketplace (SberMegaMarket).
+- Wrote requirements and launched automatic receiving of mass employees profiles (couriers, pickers) from the accounting system; optimized the process of getting credentials for those employees; increased the speed of getting authorization credentials for couriers and pickers by 1 day.
+- Wrote requirements for ML team to develop a model that predicts a fair price for leased and potential warehouses, integrated fair price in store locations evaluation instrument.
+- Coordinated 7 cross-functional end-to-end projects with 20+ products involved to impact marketing, legal, operations, and launching processes.
 <br>
 
-**Analyst** @ [Strelka KB](https://www.linkedin.com/company/strelkakb/) _(Dec 2019 - Sep 2020)_ / Madrid, ES <br>
+**Analyst** @ [Strelka KB](https://landezine-award.com/strelka-kb/) _(Oct 2019 — Jan 2022)_ <br>
+<span style="color:grey"> _Strelka KB is a Moscow-based multidisciplinary strategic consulting, urban planning, and project management company operating across 365 cities._ </span> <br>
 
-- Conducting quantitative and qualitative research in the framework of the
-project “Cities Beat Diabetes. Moscow".
-- Development of research methodology Conducting focus groups and indepth
-interviews with respondents .
-- Carrying out cluster and factor analysis.
-- Analysing benchmarks for traffic regulation in Europe.
-- Analysing spatial data as part of the formation of a strategy for creating a
-cycling route Moscow-St. Petersburg.
-<br>
+- Elaborated methodology, conducted 50+ in-depth interviews and focus groups, did quantitative and qualitative analysis for research "Cities changing diabetes. Moscow", which was conducted in partnership with UCL, Novo Nordisk; identified diabetes vulnerabilities factors in Moscow, based on which a number of measures to improve urban space were proposed.
+- Did a spatial analysis for the development strategy of the Moscow-St. Petersburg bicycle route ['Velo 1'](https://velo-1.com)
+- Made a comprehensive assessment of the legal regulation of cycling in Europe for the strategy of cycling regulation development in Russia; on the basis of the findings, recommendations for improving legislation on bicycle regulation were made.
+<br><br> 
 
 ## 🔍 Skills <br>
-- Hard: PostgreSQL, SQL, Spreadsheets/Excel, BI instruments, Jira/Confluence, Python, BPMN, UML, Swagger, Kafka topics contracts, REST API contracts, GraphQL objects, Physical Data Models
-- Methodics and concepts: Agile, Scrum, Kanban, A/B testing, UX research, K-means clustering, Factor analysis, User Stories
+- Hard: PostgreSQL, SQL, Spreadsheets/Excel, BI instruments, Jira/Confluence, Python, R, BPMN, UML, Swagger, Kafka topics contracts, REST API contracts, GraphQL objects, Physical Data Models
+- Methodics and concepts: Agile, Scrum, Kanban, A/B testing, UX research, User Stories, JBTD
+<br><br> 
+
+## 🎓 Education <br>
+
+**Master's Degree Urban Planning - [Higher School of Economics (HSE)](https://www.hse.ru/en/info/)** _(Sept 2020 - July 2022)_
 <br>
+(GPA 8.5)
+<br>
+**Bachelor's degree Sociology  – [Higher School of Economics (HSE)](https://www.hse.ru/en/info/)** _(Sept 2016 - July 2020)_
+<br>
+Applied Methods and Technologies of social Research (GPA 8.3) <br><br> 
 
-## 🎓 Education
-
-**Master's Degree IoT (Internet of Things) - [Polytechnic University of Madrid (UPM)](https://www.upm.es/)** _(Sept 2019 - July 2020)_ / Madrid, ES <br>
-
-**Bachelor's degree Sociology (Applied Methods and Technologies of social Research) – [Higher School of Economics (HSE)](https://www.hse.ru/en/info/)**_(Sept 2016 - July 2020)_/
-<br><br>
-
-## 💬 Languages
+## 💬 Languages <br>
 
 **Russian**: Native <br>
-**English**: C1 (IELTS 8.0)
+**English**: C1 (IELTS 8.0) <br>
 **German**: B1
 <br><br>
 
 ## 📚 Certifications and Courses
-
-**AWS Certified Developer - Associate** _(2022)_
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9294de01-b082-4bbe-976b-c7cdaf239730" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-**Udemi "Cisco CCNA R&S 200-125"**  _(2018)_ <br>
-**Coursera "Data Science with Python"** (by the University of Michigan)** _(2018)_ <br>
+**Product Management Simulator. Go Practice** _(2023)_ <br>
+**Verbetcetera: Technical skills for PMs** | Course from FAANG employees about key technical aspects for product _(2023)_ <br>
 
 
 
