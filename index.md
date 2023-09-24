@@ -1,7 +1,7 @@
 # Yulia Korneeva
 📌 [korneevayulia1000@gmail.com](mailto:korneevayulia1000@gmail.com) | +995 599 007 593 | Tbilisi <br> 
 telegram: [yulia_kor](https://t.me/yulia_kor) | [linkedin](https://www.linkedin.com/in/yulia-korneeva-288236173/)
-<br> 
+<br> <br>
 **Summary**
 _Business analyst with 3 years of experience in operational products and strategic consulting. Implemented $800k+ worth features in grocery delivery. Looking for a new role as a product manager._ <br> <br>
 
@@ -51,9 +51,9 @@ Applied Methods and Technologies of Social Research (GPA 8.3) <br><br>
 ## 📚 Certifications and Courses
 **Product Management Simulator. Go Practice** _(2023)_ <br>
 **Verbetcetera: Technical skills for PMs** | Course from FAANG employees about key technical aspects for product _(2023)_ <br><br>
-## 📌 Pet project
- Created and managed a [website](https://www.sioptics.ru/) for optics store
- Managed a team of 4 people (creators, designers) to maintain social media networks
+## 📌 Pet project <br>
+ - Created and managed a [website](https://www.sioptics.ru/) for optics store
+ - Managed a team of 4 people (creators, designers) to maintain social media networks
 
 
 
