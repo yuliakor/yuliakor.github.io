@@ -33,11 +33,11 @@ _Business analyst with 3 years experience in operational products and strategic 
 
 ## 🎓 Education <br>
 
-**Master's Degree Urban Planning - [Higher School of Economics (HSE)](https://www.hse.ru/en/info/)** _(Sept 2020 - July 2022)_
+**Master's Degree Urban Planning** [Higher School of Economics (HSE)](https://www.hse.ru/en/info/) _(Sept 2020 - July 2022)_
 <br>
 (GPA 8.5)
 <br>
-**Bachelor's degree Sociology  – [Higher School of Economics (HSE)](https://www.hse.ru/en/info/)** _(Sept 2016 - July 2020)_
+**Bachelor's degree Sociology** [Higher School of Economics (HSE)](https://www.hse.ru/en/info/) _(Sept 2016 - July 2020)_
 <br>
 Applied Methods and Technologies of Social Research (GPA 8.3) <br><br> 
 
