@@ -1,10 +1,4 @@
 theme: jekyll-theme-minimal
-#remote_theme: wbadart/jekyll-theme-dark-minimal
-#plugins:
-#  - jekyll-paginate
-#  - jekyll-sitemap
-#  - jekyll-gist
-#  - jekyll-feed
-#  - jemoji
-#  - jekyll-include-cache
-#  - jekyll-remote-theme
+site:
+  github:
+    is_user_page: false
