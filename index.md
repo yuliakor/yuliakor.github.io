@@ -52,8 +52,8 @@ Applied Methods and Technologies of Social Research (GPA 8.3) <br><br>
 **Product Management Simulator. Go Practice** _(2023)_ <br>
 **Verbetcetera: Technical skills for PMs** | Course from FAANG employees about key technical aspects for product _(2023)_ <br><br>
 ## 📌 Pet project <br>
- - Created and managed a [website](https://www.sioptics.ru/) for optics store
- - Managed a team of 4 people (creators, designers) to maintain social media networks
+ - Created and managed a [website](https://www.sioptics.ru/) for the optics store
+ - Managed a team of 4 people (creators, designers) to maintain social networks
 
 
 
