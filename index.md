@@ -13,7 +13,7 @@ _Business analyst with 3 years experience in operational products and strategic 
 - Implemented a series of analytical instruments for new store locations evaluation based on demographic data and demand forecasts based on previous openings; stores, opened with this algorithm, make 7% more in revenue, the average delivery route is 12% less, and courier expenses are 6% less compared to other stores.
 - Developed a roadmap and designed business logic for transitioning from Mapbox gis data provider to inner gis platform to manage logistics infrastructure; reduced costs and risks of using  external providers' services.
 - Wrote requirements and launched a service, which contains information on all logistics infrastructure for 3 companies Samokat, Sberlogistika, and SberMegaMarket; provided the technical capability to implement 15-minute delivery for a partner Marketplace (SberMegaMarket).
-- Wrote requirements and launched automatic receiving of mass employee profiles (couriers, pickers) from the accounting system; optimized the process of getting credentials for those employees; increased the speed of getting authorization credentials for couriers and pickers by 1 day.
+- Wrote requirements and launched automatic receiving of mass employee profiles (couriers, pickers) from the accounting system; optimized the process of getting credentials for those employees; reduced support work by 20 person-hours per week.
 - Wrote requirements for the ML team to develop a model that predicts a fair price for leased and potential warehouses, integrated fair price in store locations evaluation instrument.
 - Coordinated 7 cross-functional end-to-end projects with 20+ products involved to impact marketing, legal, operations, and launching processes.
 <br>
