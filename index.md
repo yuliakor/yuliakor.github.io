@@ -1,6 +1,9 @@
 # Yulia Korneeva
 📌 [korneevayulia1000@gmail.com](mailto:korneevayulia1000@gmail.com) | +995 599 007 593 | Tbilisi <br> 
 telegram: [yulia_kor](https://t.me/yulia_kor) | [linkedin](https://www.linkedin.com/in/yulia-korneeva-288236173/)
+<br> 
+**Summary**
+_Business analyst with 3 years of experience in operational products and strategic consulting. Implemented $800k+ worth features in grocery delivery._ <br> <br>
 
 ## 🔧 Professional Experience <br>
 **Bussiness analyst** @ [Samokat](https://samokat.ru/), [Buyk](https://www.linkedin.com/company/buyk-corp/) _(Jan 2022 - Present)_/ <br>
@@ -15,7 +18,7 @@ telegram: [yulia_kor](https://t.me/yulia_kor) | [linkedin](https://www.linkedin.
 - Coordinated 7 cross-functional end-to-end projects with 20+ products involved to impact marketing, legal, operations, and launching processes.
 <br>
 
-**Analyst** @ [Strelka KB](https://landezine-award.com/strelka-kb/) _(Oct 2019 — Jan 2022)_ <br>
+**Analyst** @ [Strelka KB](https://landezine-award.com/strelka-kb/) _(Oct 2019 — Dec 2021)_ <br>
 <span style="color:grey"> _Strelka KB is a Moscow-based multidisciplinary strategic consulting, urban planning, and project management company operating across 365 cities._ </span> <br>
 
 - Elaborated methodology, conducted 50+ in-depth interviews and focus groups, did quantitative and qualitative analysis for research "Cities changing diabetes. Moscow", which was conducted in partnership with UCL, Novo Nordisk; identified diabetes vulnerabilities factors in Moscow, based on which several measures to improve urban space were proposed.
