@@ -6,21 +6,21 @@ telegram: [yulia_kor](https://t.me/yulia_kor) | [linkedin](https://www.linkedin.
 **Bussiness analyst** @ [Samokat](https://samokat.ru/), [Buyk](https://www.linkedin.com/company/buyk-corp/) _(Jan 2022 - Present)_/ <br>
 <span style="color:grey"> _Samokat is a grocery delivery company in Russia with over $1BLN in revenue, 1200+ stores, and 55M users. Buyk was Samokat’s USA brand operating 40 stores in New York and Chicago_ </span> <br>
 
-- Developed product “SAM” - service area manager. SAM is a dictionary of warehouses and delivery service areas with analytical functions that allow the calculation of the best warehouse locations
+- Developed product “SAM” - service area manager. SAM is a dictionary of warehouses and delivery service areas with analytical functions that allow the calculation of the best warehouse locations.
 - Implemented a series of analytical instruments for new store locations evaluation based on demographic data and demand forecasts based on previous openings; stores, opened with this algorithm, make 7% more in revenue, the average delivery route is 12% less, and courier expenses are 6% less compared to other stores.
 - Developed a roadmap and designed business logic for transitioning from Mapbox gis data provider to own gis platform to manage logistics objects; reduced costs and risks of using  external providers' services.
-- Wrote requirements and launched a service, which contains information on all logistics infrastructure for 3 companies Samokat, Sberlogistika, SberMegaMarket; provided technical capability to implement 15-minute delivery for a partner Marketplace (SberMegaMarket).
-- Wrote requirements and launched automatic receiving of mass employees profiles (couriers, pickers) from the accounting system; optimized the process of getting credentials for those employees; increased the speed of getting authorization credentials for couriers and pickers by 1 day.
-- Wrote requirements for ML team to develop a model that predicts a fair price for leased and potential warehouses, integrated fair price in store locations evaluation instrument.
+- Wrote requirements and launched a service, which contains information on all logistics infrastructure for 3 companies Samokat, Sberlogistika, and SberMegaMarket; provided the technical capability to implement 15-minute delivery for a partner Marketplace (SberMegaMarket).
+- Wrote requirements and launched automatic receiving of mass employee profiles (couriers, pickers) from the accounting system; optimized the process of getting credentials for those employees; increased the speed of getting authorization credentials for couriers and pickers by 1 day.
+- Wrote requirements for the ML team to develop a model that predicts a fair price for leased and potential warehouses, integrated fair price in store locations evaluation instrument.
 - Coordinated 7 cross-functional end-to-end projects with 20+ products involved to impact marketing, legal, operations, and launching processes.
 <br>
 
 **Analyst** @ [Strelka KB](https://landezine-award.com/strelka-kb/) _(Oct 2019 — Jan 2022)_ <br>
 <span style="color:grey"> _Strelka KB is a Moscow-based multidisciplinary strategic consulting, urban planning, and project management company operating across 365 cities._ </span> <br>
 
-- Elaborated methodology, conducted 50+ in-depth interviews and focus groups, did quantitative and qualitative analysis for research "Cities changing diabetes. Moscow", which was conducted in partnership with UCL, Novo Nordisk; identified diabetes vulnerabilities factors in Moscow, based on which a number of measures to improve urban space were proposed.
-- Did a spatial analysis for the development strategy of the Moscow-St. Petersburg bicycle route ['Velo 1'](https://velo-1.com)
-- Made a comprehensive assessment of the legal regulation of cycling in Europe for the strategy of cycling regulation development in Russia; on the basis of the findings, recommendations for improving legislation on bicycle regulation were made.
+- Elaborated methodology, conducted 50+ in-depth interviews and focus groups, did quantitative and qualitative analysis for research "Cities changing diabetes. Moscow", which was conducted in partnership with UCL, Novo Nordisk; identified diabetes vulnerabilities factors in Moscow, based on which several measures to improve urban space were proposed.
+- Did a spatial analysis for the development strategy of the Moscow-St—Petersburg bicycle route ['Velo 1'](https://velo-1.com).
+- Made a comprehensive assessment of the legal regulation of cycling in Europe for the strategy of cycling regulation development in Russia; based on the findings, recommendations for improving legislation on bicycle regulation were made.
 <br><br> 
 
 ## 🔍 Skills <br>
@@ -36,7 +36,7 @@ telegram: [yulia_kor](https://t.me/yulia_kor) | [linkedin](https://www.linkedin.
 <br>
 **Bachelor's degree Sociology  – [Higher School of Economics (HSE)](https://www.hse.ru/en/info/)** _(Sept 2016 - July 2020)_
 <br>
-Applied Methods and Technologies of social Research (GPA 8.3) <br><br> 
+Applied Methods and Technologies of Social Research (GPA 8.3) <br><br> 
 
 ## 💬 Languages <br>
 
