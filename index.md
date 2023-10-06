@@ -3,7 +3,7 @@
 telegram: [yulia_kor](https://t.me/yulia_kor) | [linkedin](https://www.linkedin.com/in/yulia-korneeva-288236173/)
 <br> <br>
 **Summary**
-_Business analyst with 3 years experience in operational products and strategic consulting. Implemented $800k+ worth features in grocery delivery. Looking for a new role as a product manager._ <br> <br>
+_Business analyst with 3 years of experience in operational products and strategic consulting. Implemented $800k+ worth features in grocery delivery. Looking for a new role as a product manager or business analyst._ <br> <br>
 
 ## 🔧 Professional Experience <br>
 **Bussiness analyst** @ [Samokat](https://samokat.ru/), [Buyk](https://www.linkedin.com/company/buyk-corp/) _(Jan 2022 - Present)_/ <br>
@@ -14,7 +14,6 @@ _Business analyst with 3 years experience in operational products and strategic 
 - Developed a roadmap and designed business logic for transitioning from Mapbox gis data provider to inner gis platform to manage logistics infrastructure; reduced costs and risks of using  external providers' services.
 - Wrote requirements and launched a service, which contains information on all logistics infrastructure for 3 companies Samokat, Sberlogistika, and SberMegaMarket; provided the technical capability to implement 15-minute delivery for a partner Marketplace (SberMegaMarket).
 - Wrote requirements and launched automatic receiving of mass employee profiles (couriers, pickers) from the accounting system; optimized the process of getting credentials for those employees; reduced support work by 150 person-hours per week.
-- Wrote requirements for the ML team to develop a model that predicts a fair price for leased and potential warehouses, integrated fair price in store locations evaluation instrument.
 - Coordinated 7 cross-functional end-to-end projects with 20+ products involved to impact marketing, legal, operations, and launching processes.
 <br>
 
