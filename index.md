@@ -3,7 +3,7 @@
 telegram: [yulia_kor](https://t.me/yulia_kor) | [linkedin](https://www.linkedin.com/in/yulia-korneeva-288236173/)
 <br> <br>
 **Summary**
-_Business analyst with 3 years of experience in operational products and strategic consulting. Implemented $800k+ worth features in grocery delivery. Looking for a new role as a product manager or business analyst._ <br> <br>
+_Business analyst with 3 years of experience in operational products and strategic consulting. Implemented $800k+ worth features in grocery delivery._ <br> <br>
 
 ## 🔧 Professional Experience <br>
 **Business analyst** @ [Samokat](https://samokat.ru/), [Buyk](https://www.linkedin.com/company/buyk-corp/) _(Jan 2022 - Present)_/ <br>
